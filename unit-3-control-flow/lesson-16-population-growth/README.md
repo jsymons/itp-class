@@ -19,5 +19,5 @@ Examples:
 >>> population_growth(5000, 0.1, 40000)
 22
 >>> population_growth(5000, 0, 40000)
-invalid growth rate
+'invalid growth rate'
 ```

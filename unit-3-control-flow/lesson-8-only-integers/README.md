@@ -10,5 +10,5 @@ Examples:
 >>> add_only_integers(2, 3)
 5
 >>> add_only_integers(2, 'what')
-invalid parameters
+'invalid parameters'
 ```

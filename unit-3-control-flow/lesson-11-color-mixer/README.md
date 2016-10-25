@@ -15,11 +15,11 @@ Examples:
 
 ```python
 >>> color_mixer('red', 'blue')
-Magenta
+'Magenta'
 >>> color_mixer('blue', 'red')
-Magenta
+'Magenta'
 >>> color_mixer('blue', 'yellow')
-Green
+'Green'
 >>> color_mixer('yellow', 'red')
-Orange
+'Orange'
 ```

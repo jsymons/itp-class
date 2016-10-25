@@ -3,6 +3,8 @@
 Define a function `make_number_odd` that receives a number, adds 1 to that 
 number if it is even, and returns the number. 
 
+Hint: Use the % operator to determine if even or odd
+
 Examples:
 
 ```python

@@ -17,5 +17,5 @@ Examples:
 >>> create_counting_list(0)
 []
 >>> create_counting_list(-1)
-cannot be negative
+'cannot be negative'
 ```
