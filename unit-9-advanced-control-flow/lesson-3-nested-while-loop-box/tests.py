@@ -11,4 +11,4 @@ EXPECTED_BOX = """
 class BoxTestCase(unittest.TestCase):
 
     def test_nested_box(self):
-        self.assertEqual(nested_box(), EXPECTED_BOX)
+        self.assertEqual(nested_while_loop_box(), EXPECTED_BOX)
