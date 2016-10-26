@@ -10,4 +10,4 @@ common_values(tuple_1, tuple_2)  #{1,4,5,6,8,10}
 ```
 
 
-The function should additionally check to see that the parameters are tuple objects. If at least one isn't, the function should return a string that says "params not of type 'tuple'".
+The function should additionally check to see that the parameters are tuple objects. If at least one isn't, the function should return a string that says "Params not of type 'tuple'".
