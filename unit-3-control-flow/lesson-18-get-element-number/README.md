@@ -13,5 +13,5 @@ Examples:
 >>> get_element_number(['a', 'a', 'a'], 'a')
 0
 >>> get_element_number(['a', 'b', 'c'], 's')
-no match
+'no match'
 ```

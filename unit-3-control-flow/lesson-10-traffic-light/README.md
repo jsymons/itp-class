@@ -13,9 +13,9 @@ Examples:
 
 ```python
 >>> traffic_light('red')
-stop
+'stop'
 >>> traffic_light('yellow')
-slow down
+'slow down'
 >>> traffic_light('green')
-go
+'go'
 ```
