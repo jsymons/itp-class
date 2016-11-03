@@ -17,13 +17,13 @@ Examples:
 
 ```python
 >>> get_grade_letter(93)
-A
+'A'
 >>> get_grade_letter(80)
-B
+'B'
 >>> get_grade_letter(75)
-C
+'C'
 >>> get_grade_letter(67)
-D
+'D'
 >>> get_grade_letter(42)
-F
+'F'
 ```

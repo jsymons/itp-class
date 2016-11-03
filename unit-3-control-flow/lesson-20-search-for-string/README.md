@@ -9,9 +9,9 @@ Examples:
 
 ```python
 >>> search_for_string(['santiago', 'santi', 'santa'], 'santa')
-string found!
+'string found!''
 >>> search_for_string(['a', 'b', 'c'], 'd')
-string not found
+'string not found'
 >>> search_for_string([], 'a')
-string not found
+'string not found'
 ```
