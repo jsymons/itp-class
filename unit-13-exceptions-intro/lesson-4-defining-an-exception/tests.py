@@ -1,3 +1,5 @@
+import unittest
+
 class TestExceptions(unittest.TestCase):
     
     def test_custom_string_exception(self):
