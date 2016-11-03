@@ -5,7 +5,7 @@ class TestExceptions(unittest.TestCase):
     def test_custom_string_exception(self):
 
         def string_length(a_string):
-            if len(string) > 7:
+            if len(a_string) > 7:
                 raise StringTooLongException
             else:
                 pass
