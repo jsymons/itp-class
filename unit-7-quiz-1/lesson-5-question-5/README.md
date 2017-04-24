@@ -1,14 +1,17 @@
+# Question 5
+
 Implement the code required to make this function work.
 Write a function `calculate_tax` that receives a number (`income`) and
 calculates how much of Federal taxes is due,
 according to the following table:
+```
 | Income  | Tax Percentage |
 | ------------- | ------------- |
 | <= $50,000    |        15%    |
 | <= $75,000    |        25%    |
 | <= $100,000   |        30%    |
 | > $100,000    |        35%    |
-
+```
 ```python
 Example:
 income = 30000  # $30,000 is less than $50,000

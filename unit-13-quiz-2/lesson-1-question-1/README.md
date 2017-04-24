@@ -1,3 +1,5 @@
+# Question 1
+
 Return the correct value for the following question.
 **IMPORTANT!** Return the actual value of `c`, not just the answer option.
 Take a look at the following code and answer:
