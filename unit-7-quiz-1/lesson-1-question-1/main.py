@@ -1,3 +1,7 @@
 def question_1():
-    # Return the correct value.
-    pass
+    # Uncomment the line that you think is correct:
+    
+    #return "Integer"
+    #return "Boolean"
+    #return "String"
+    #return "Collection"
