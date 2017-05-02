@@ -5,3 +5,4 @@ def question_1():
     #return "Boolean"
     #return "String"
     #return "Collection"
+    pass
