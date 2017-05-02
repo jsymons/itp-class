@@ -19,13 +19,13 @@ Write a function `calculate_tax` that receives a number (`income`) and calculate
 ```python
 # Example 1
 income = 30000  # $30,000 is less than $50,000
-calculate_tax(income)  # $30,000 * 0.15  = 4500 = $4,500
+calculate_tax(income)  # 4500
 
 # Example 2
 income = 80000  # $80,000 is more than $75,000 but less than $80,000
-calculate_tax(income)  # $80,000 * 0.25 = 20000 = $20,000
+calculate_tax(income)  # 20000
 
 # Example 3
 income = 210000  # $210,000 is more than $100,000
-calculate_tax(income)  # $210,000 * 0.35 = 73500 = $73,500
+calculate_tax(income)  # 73500
 ```
