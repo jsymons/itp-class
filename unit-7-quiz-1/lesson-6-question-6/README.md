@@ -18,3 +18,5 @@ m2 = [
 matrix_sum(m1)  #  80
 matrix_sum(m2)  # 198
 ```
+
+**Hint:** You need to use for loops to solve this one.
