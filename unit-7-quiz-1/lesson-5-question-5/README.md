@@ -11,6 +11,9 @@ Write a function `calculate_tax` that receives a number (`income`) and calculate
 | > $100,000    |        35%     |
 ```
 
+`<=` means "less than or equals to"
+`>` means "greater than
+
 **Examples:**
 
 ```python
